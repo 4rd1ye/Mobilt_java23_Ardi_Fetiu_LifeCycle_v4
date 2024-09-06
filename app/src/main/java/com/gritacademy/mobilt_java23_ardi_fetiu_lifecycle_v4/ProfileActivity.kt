@@ -19,7 +19,7 @@ class ProfileActivity : AppCompatActivity() {
     private lateinit var licenseCheckBox: CheckBox
     private lateinit var genderRadioGroup: RadioGroup
     private lateinit var emailEditText: EditText
-    private lateinit var phoneEditText: EditText // Added for phone input
+    private lateinit var phoneEditText: EditText 
     private lateinit var submitButton: Button
     private lateinit var logoutButton: Button
     private lateinit var firebaseAuth: FirebaseAuth
@@ -35,7 +35,7 @@ class ProfileActivity : AppCompatActivity() {
         licenseCheckBox = findViewById(R.id.licenseCheckbox)
         genderRadioGroup = findViewById(R.id.genderGroup)
         emailEditText = findViewById(R.id.emailInput)
-        phoneEditText = findViewById(R.id.phoneInput) // For phone number
+        phoneEditText = findViewById(R.id.phoneInput) 
         submitButton = findViewById(R.id.saveButton)
         logoutButton = findViewById(R.id.logoutButton)
 
