@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770421965463",
+    "project_id": "mobiltjava23ardiflifecyclev4",
+    "storage_bucket": "mobiltjava23ardiflifecyclev4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770421965463:android:d3167d1a45886e817cdfd2",
+        "android_client_info": {
+          "package_name": "com.gritacademy.mobilt_java23_ardi_fetiu_lifecycle_v4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFJ4HyAdZIfzi52Fo6pXFG1XZbrBqjOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
